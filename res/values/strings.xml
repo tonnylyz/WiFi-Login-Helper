@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WiFi Login Helper</string>
+    <string name="login_credential">Please enter your login credential.</string>
+    <string name="save_setting">Save</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_succeed">Login succeed</string>
+    <string name="network_error">Network Error</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WiFi 登录助手</string>
+    <string name="login">登录</string>
+    <string name="login_credential">请输入您的登录凭据。</string>
+    <string name="login_succeed">登录成功</string>
+    <string name="network_error">网络错误</string>
+    <string name="password">密码</string>
+    <string name="save_setting">保存</string>
+    <string name="username">用户名</string>
+</resources>
